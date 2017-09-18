@@ -1,0 +1,17 @@
+{
+  "name": "ToDoApp",
+  "version": "0.0.0",
+  "description": "to do app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Intisar",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.15.4",
+    "ejs": "~2.5.7",
+    "body-parser": "~1.18.1",
+    "mongoose": "~4.11.11"
+  }
+}
